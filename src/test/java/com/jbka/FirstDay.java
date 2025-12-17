@@ -11,8 +11,7 @@ public class FirstDay {
 		//FirefoxDriver driver=new FirefoxDriver();
 		//InternetExplorerDriver driver=new InternetExplorerDriver();
 		
-		driver.get("https://practicetestautomation.com/practice-test-login/");
+		//driver.get("https://practicetestautomation.com/practice-test-login/");
+		driver.get("https://www.instagram.com/");
 	}
-
-
 }
