@@ -13,5 +13,6 @@ public class FirstDay {
 		
 		//driver.get("https://practicetestautomation.com/practice-test-login/");
 		driver.get("https://www.instagram.com/");
+		System.out.println( " First Try ");
 	}
 }
